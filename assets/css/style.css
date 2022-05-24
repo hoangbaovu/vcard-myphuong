@@ -1995,7 +1995,7 @@ input[type="submit"] {
         top: 0;
         right: 0;
         width: 760px;
-        height: 140px;
+        height: 90px;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -3300,11 +3300,12 @@ input[type="submit"] {
 .content-wrap .title-small {
     display: block;
     font-family: 'Oswald', sans-serif;
-    font-size: 12px;
+    font-size: 22px;
     text-transform: uppercase;
     color: #F68338;
     font-weight: 400;
     letter-spacing: 5px;
+    margin-bottom: 4px;
 }
 
 .media {
@@ -3357,7 +3358,7 @@ input[type="submit"] {
 .blog-listing .post .header h4 {
     font-size: 22px;
     font-weight: 700;
-    margin-bottom: 0px;
+    margin-bottom: 16px;
 }
 
 .header .meta-data {
@@ -4107,4 +4108,9 @@ input[type="submit"] {
     height: 142px;
     margin-top: -142px;
     visibility: hidden;
+}
+
+.dayhoc p {
+    margin-top: 20px;
+    font-size: 18px;
 }
